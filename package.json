@@ -11,7 +11,7 @@
     "@openapitools/openapi-generator-cli": "^2.7.0",
     "@redocly/cli": "^1.0.0",
     "@stoplight/spectral-cli": "^6.10.0",
-    "ibm-openapi-validator": "^1.1.2"
+    "ibm-openapi-validator": "^1.33.2"
   },
   "scripts": {
     "preview": "redocly preview-docs",
